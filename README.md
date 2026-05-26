@@ -17,8 +17,12 @@ The simulation confirms high-precision beam steering and effective null-steering
 ![Massive MIMO ZF Beam Patterns](mimo_beam_pattern.png)
 
 ## 🛠️ How to Run
-Provide simple steps for others to replicate your work:
-1. Clone the repo: `git clone [URL]`
+## 🛠️ How to Run
+Follow these steps to replicate the beamforming simulation on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/mzaib1012/Massive-MIMO-Antenna-Array-Beamforming-and-Spatial-Multiplexing-Simulator.git](https://github.com/mzaib1012/Massive-MIMO-Antenna-Array-Beamforming-and-Spatial-Multiplexing-Simulator.git)`
 2. Open the notebook in Google Colab or local Jupyter environment.
 3. Run the cells sequentially to regenerate the beam patterns.
 
