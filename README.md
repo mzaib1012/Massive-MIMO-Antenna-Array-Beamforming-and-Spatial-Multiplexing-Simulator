@@ -20,7 +20,7 @@ The simulation confirms high-precision beam steering and effective null-steering
 ## 🛠️ How to Run
 Follow these steps to replicate the beamforming simulation on your machine:
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone [https://github.com/mzaib1012/Massive-MIMO-Antenna-Array-Beamforming-and-Spatial-Multiplexing-Simulator.git](https://github.com/mzaib1012/Massive-MIMO-Antenna-Array-Beamforming-and-Spatial-Multiplexing-Simulator.git)`
 2. Open the notebook in Google Colab or local Jupyter environment.
