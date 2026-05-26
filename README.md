@@ -12,9 +12,9 @@ Briefly describe what the project is.
 * **System Parameters:** List key variables used (e.g., 64-element ULA, 4 users).
 
 ## 📊 Results & Visualization
-Explain what the visual results prove.
-*(Insert your plots here like this:)*
-![Result Plot](image_filename.png)
+The simulation confirms high-precision beam steering and effective null-steering for all four users:
+
+![Massive MIMO ZF Beam Patterns](mimo_beam_pattern.png)
 
 ## 🛠️ How to Run
 Provide simple steps for others to replicate your work:
