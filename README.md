@@ -22,9 +22,6 @@ Follow these steps to replicate the beamforming simulation on your machine:
 
 1. Clone the repository:
    ```bash
-   https://github.com/mzaib1012/Massive-MIMO-Antenna-Array-Beamforming-and-Spatial-Multiplexing-Simulator.git
+   https://github.com/mzaib1012/mimo-beamforming-simulator.git
 2. Open the notebook in Google Colab or local Jupyter environment.
 3. Run the cells sequentially to regenerate the beam patterns.
-
-## 📈 Engineering Impact
-Why does this project matter? Discuss the efficiency gained or the interference mitigated, proving you understand the engineering application.
